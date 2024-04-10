@@ -4,3 +4,4 @@ gradebook.db
 .ipynb_checkpoints
 .DS_Store
 wsl_commands.txt
+hpc_instructions.txt
